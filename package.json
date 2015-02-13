@@ -1,0 +1,18 @@
+{
+  "name": "email-template",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthonydc/grunt-email-design"
+  },
+  "devDependencies": {
+    "assemble": "0.4.37",
+    "grunt": "~0.4.4",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-litmus": "^0.1.8",
+    "grunt-mandrill": "0.0.3",
+    "grunt-premailer": "0.2.5",
+    "grunt-sass": "^0.18.0",
+    "time-grunt": "^1.0.0"
+  }
+}
